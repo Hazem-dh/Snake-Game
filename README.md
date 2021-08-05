@@ -2,7 +2,7 @@
 
 ## About the project 
 
-A simple snake game i made when i got bored during holidays
+A simple snake game i made when i got bored during summer holidays
 
 ## Installation
 
