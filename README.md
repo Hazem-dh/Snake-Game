@@ -14,8 +14,7 @@ A simple snake game i made while
 
 ## DEMO
 
-
-
+https://user-images.githubusercontent.com/58445913/128332662-c5394a3f-5193-4670-bf71-1e72daf90d69.mp4
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
