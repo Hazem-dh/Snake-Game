@@ -2,7 +2,7 @@
 
 ## About the project 
 
-A simple snake game i made while
+A simple snake game i made when i got bored during holidays
 
 ## Installation
 
@@ -13,8 +13,11 @@ A simple snake game i made while
 2. Run snake_game.py and enjoy !
 
 ## DEMO
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58445913/128333853-f2a0c05a-6af8-45d7-be46-542ab2250d58.gif" alt="animated" />
+</p>
 
-https://user-images.githubusercontent.com/58445913/128332662-c5394a3f-5193-4670-bf71-1e72daf90d69.mp4
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
